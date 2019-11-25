@@ -3,7 +3,7 @@
   "name": "Hello-World",
   "full_name": "octocat/Hello-World",
   "owner": "$user",
-  "parent":"$repo",
+  "parent": "$repo",
   "private": false,
   "description": "This your first repo!",
   "fork": false,

@@ -20,7 +20,7 @@ class Global {
   static SharedPreferences _prefs;
   static Profile profile = Profile();
   // 网络缓存对象
-  static NetCache netCache = NetCache();
+  static CacheInterceptor netCache = CacheInterceptor();
   // 可选主题色列表
   static List<MaterialColor> get themes => _themes;
   // 是否为release版本
